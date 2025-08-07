@@ -40,7 +40,7 @@ function Project() {
               imgPath={weather}
               isBlog={false}
               title="Weather App"
-              description="I Built a responsive Weather App using HTML, CSS, and JavaScript with location and city-based weather. Deployed on Netlify."
+              description="I Built a responsive  Weather App using HTML, CSS, and JavaScript with location and city-based weather. Deployed on Netlify."
               ghLink="https://github.com/Babludhaker/Weather-website"
               demoLink="https://weathergui.netlify.app/"
             />
