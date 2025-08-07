@@ -2,12 +2,12 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCard";
 import Particle from "../Particle";
-import eshoppy from "../../Assets/Projects/eshoppy.png";
-import music from "../../Assets/Projects/music.png";
-import miniProject from "../../Assets/Projects/miniProject.png";
-import Brightpath from "../../Assets/Projects/Brightpath.png";
+import eshoppy from "../../assets/Projects/eshoppy.png";
+import music from "../../assets/Projects/music.png";
+import miniProject from "../../assets/Projects/miniProject.png";
+import Brightpath from "../../assets/Projects/Brightpath.png";
 
-import weather from "../../Assets/Projects/weather.png";
+import weather from "../../assets/Projects/weather.png";
 
 function Project() {
   return (
