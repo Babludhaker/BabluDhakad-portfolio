@@ -12,7 +12,6 @@ import Preloader from "../src/components/Pre";
 import Project from "./components/Project/Project";
 import About from "./components/About/About";
 import Resume from "./components/Resume/Resume";
-import Contact from "./components/Contact";
 
 function App() {
   const [load, upadateLoad] = useState(true);
